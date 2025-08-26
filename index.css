@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-family: sans-serif;
+  border: solid black;
+}
+
+.logo {
+  width: 100px;
+  padding: 10px;
+}
+
+.nav-items > ul {
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  margin: 10px;
+  list-style: none;
+  font-weight: 500;
+}
