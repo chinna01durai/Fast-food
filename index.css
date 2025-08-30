@@ -15,8 +15,17 @@
 }
 
 .nav-items > ul > li {
-  padding: 10px;
+  padding: 20px;
   margin: 10px;
+  font-size: 20px;
   list-style: none;
   font-weight: 500;
+}
+.res-card {
+  border: 1px solid black;
+  height: 300px;
+  width: 200px;
+}
+.search {
+  padding: 10px;
 }
